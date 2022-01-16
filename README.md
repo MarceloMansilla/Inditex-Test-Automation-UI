@@ -31,7 +31,7 @@ docker build -t cypress .
 ```
 
 ## Reporting
-To run the test to create report, use the following command
+To run the test and to create report, use the following command
 ```mochawesome
 npx cypress run --reporter mochawesome
 ```
