@@ -1,6 +1,8 @@
 # Inditex-Test-Automation-UI
 Automation Framework with Cypress
 
+## Why I chose
+I chose Cypress to develop the solution as a result of being easy to create a framework in a shot time, the learning is not so complucated and have the setup in some minutes to start to code the solution.
 
 ## Pre-requirement
 * VS Code
